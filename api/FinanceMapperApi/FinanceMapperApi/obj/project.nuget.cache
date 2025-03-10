@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dYIUUEkq96Xd2eKA/hSMin676CXQtcHbNoR+wl3pyLvf/qoua9SAbaDHzIXfxLLx5hY7yFbPiW5S5X8V2m5V4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desenvolvedor\\Documents\\mentoria\\src\\finance-mapper\\api\\FinanceMapperApi\\FinanceMapperApi\\FinanceMapperApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desenvolvedor\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\desenvolvedor\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\desenvolvedor\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\desenvolvedor\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
