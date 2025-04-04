@@ -1,0 +1,37 @@
+# Ignore arquivos de ambiente
+.env
+.env.*
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios de volumes/montagens locais
+volumes/
+data/
+pgdata/
+
+# Arquivos temporários do sistema
+*.swp
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos do VSCode (se estiver usando)
+.vscode/
+
+# Ignore pastas de IDEs comuns
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar arquivos criados pelo Docker
+**/__pycache__/
+**/.Python
+**/node_modules
+**/dist
+**/build
+
+# Arquivos gerados pelo sistema operacional
+ehthumbs.db
+Icon?
